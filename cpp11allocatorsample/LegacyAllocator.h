@@ -8,6 +8,8 @@
 #ifndef LegacyAllocator_h
 #define LegacyAllocator_h
 
+#include <iostream>
+
 template <class T>
 class LegacyAllocator
 {

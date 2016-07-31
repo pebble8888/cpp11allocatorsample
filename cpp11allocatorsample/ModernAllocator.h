@@ -8,7 +8,7 @@
 #ifndef ModernAllocator_h
 #define ModernAllocator_h
 
-#include <new>
+#include <iostream>
 
 template <class T>
 struct ModernAllocator {
